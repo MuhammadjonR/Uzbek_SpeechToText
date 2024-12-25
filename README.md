@@ -1,6 +1,13 @@
 # Uzbek_SpeechToText
+![image](https://github.com/user-attachments/assets/8ed0beee-e2dc-4a06-85fd-f8a0b1b35738)
+
 MP3 to Uzbek Text Transcription
+
+![image](https://github.com/user-attachments/assets/db2727ac-6021-43cc-92fe-91b2437ef506)
+
 This project allows users to upload an MP3 file, convert it to a WAV format, and transcribe the audio to text in the Uzbek language using Google's Speech Recognition API. The transcription can be saved as a .txt file and downloaded.
+
+![image](https://github.com/user-attachments/assets/532d2d7c-5551-4507-9f45-3b1e6d942223)
 
 Features:
 MP3 to WAV Conversion: Upload an MP3 file, and the app converts it to WAV format.
@@ -17,27 +24,15 @@ ffmpeg: Required for audio file conversion (ensure it's installed and accessible
 Installation:
 To get started, clone this repository and install the required dependencies.
 
-Clone the repository:
+![image](https://github.com/user-attachments/assets/3c3776ce-224b-4693-ab4b-129bf48b8e43)
 
-git clone https://github.com/your-username/MP3-to-Uzbek-Text-Transcription.git
-cd MP3-to-Uzbek-Text-Transcription
-
-bash
-
-pip install -r requirements.txt
-You can create a requirements.txt file with the following contents:
-
-
-streamlit
-speechrecognition
-pydub
 Install FFmpeg:
+![image](https://github.com/user-attachments/assets/d6327274-fd3d-45f9-903e-ec8f1029ac15)
 
 Download FFmpeg from FFmpeg official site and extract it.
 Set the path to the ffmpeg.exe binary in your script or ensure it’s available in your system’s PATH.
 Run the Streamlit app:
 
-bash
 
 streamlit run app.py
 Your app will be accessible at http://localhost:8501.
