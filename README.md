@@ -19,10 +19,8 @@ To get started, clone this repository and install the required dependencies.
 
 Clone the repository:
 
-bash
 git clone https://github.com/your-username/MP3-to-Uzbek-Text-Transcription.git
 cd MP3-to-Uzbek-Text-Transcription
-Install the required Python packages:
 
 bash
 
