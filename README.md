@@ -24,7 +24,8 @@ ffmpeg: Required for audio file conversion (ensure it's installed and accessible
 Installation:
 To get started, clone this repository and install the required dependencies.
 
-![image](https://github.com/user-attachments/assets/3c3776ce-224b-4693-ab4b-129bf48b8e43)
+![image](https://github.com/user-attachments/assets/3b55e852-d0f4-41d4-9941-2bfbae88d084)
+
 
 Install FFmpeg:
 ![image](https://github.com/user-attachments/assets/d6327274-fd3d-45f9-903e-ec8f1029ac15)
