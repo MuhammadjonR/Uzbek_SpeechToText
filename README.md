@@ -28,7 +28,8 @@ To get started, clone this repository and install the required dependencies.
 
 
 Install FFmpeg:
-![image](https://github.com/user-attachments/assets/d6327274-fd3d-45f9-903e-ec8f1029ac15)
+![image](https://github.com/user-attachments/assets/b3d4ec50-352d-4cca-aa9c-bdd31aa9cb80)
+
 
 Download FFmpeg from FFmpeg official site and extract it.
 Set the path to the ffmpeg.exe binary in your script or ensure it’s available in your system’s PATH.
